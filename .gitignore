@@ -33,6 +33,6 @@ dist-ssr
 .eslintcache
 
 # Netlify local dev/CLI
-.netlify.toml
+netlify.toml
 
 .git
